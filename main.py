@@ -8,7 +8,7 @@ os.system("clear")
 
 while True:
     cargar_opciones()
-
+    
     # EJECUTO MI PROGRAMA ESPERANDO UN POSIBLE ERROR
     try: # SI NO HAY ERRORES
         respuesta = input("[?] ")
